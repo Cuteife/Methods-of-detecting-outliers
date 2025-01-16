@@ -1,2 +1,2 @@
 # botswana_bank_customer_datasets
-perform data cleaning and detecting of outliers
+Importing of libraries,perform data cleaning and detecting of outliers using z-score, interquantile range and boxplot.
